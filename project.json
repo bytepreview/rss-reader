@@ -1,0 +1,38 @@
+{
+    "name": "BytePreview",
+    "description": "Tecnología y software: lanzamientos, noticias, análisis, comparativas y guías de uso.",
+    "website": "https://bytepreview.com",
+    "github_profile": "https://github.com/bytepreview",
+    "feeds": {
+        "es": {
+            "label": "Español",
+            "url": "https://bytepreview.com/es/rss.xml",
+            "website": "https://www.bytepreview.com/es"
+        },
+        "en": {
+            "label": "Inglés",
+            "url": "https://bytepreview.com/en/rss.xml",
+            "website": "https://www.bytepreview.com/en"
+        },
+        "fr": {
+            "label": "Francés",
+            "url": "https://bytepreview.com/fr/rss.xml",
+            "website": "https://www.bytepreview.com/fr"
+        },
+        "it": {
+            "label": "Italiano",
+            "url": "https://bytepreview.com/it/rss.xml",
+            "website": "https://www.bytepreview.com/it"
+        },
+        "de": {
+            "label": "Alemán",
+            "url": "https://bytepreview.com/de/rss.xml",
+            "website": "https://www.bytepreview.com/de"
+        },
+        "pt": {
+            "label": "Portugués",
+            "url": "https://bytepreview.com/pt/rss.xml",
+            "website": "https://www.bytepreview.com/pt"
+        }
+    }
+}
